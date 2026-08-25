@@ -1,1 +1,1 @@
-Payment service - E Commerce Platform Project!
+Payment service - E Commerce Platform Project
